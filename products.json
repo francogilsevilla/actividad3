@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "name": "Lechuga",
+    "price": 5,
+    "description": "lechuga fresca",
+    "code": 15,
+    "stock": 21,
+    "thumbnail": "lechuga.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tomate",
+    "price": 2,
+    "description": "tomates frescos",
+    "code": 9,
+    "stock": 4,
+    "thumbnail": "tomate.jpg"
+  }
+]
