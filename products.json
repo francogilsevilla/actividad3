@@ -4,8 +4,8 @@
     "name": "Lechuga",
     "price": 5,
     "description": "lechuga fresca",
-    "code": 15,
-    "stock": 21,
+    "code": 7,
+    "stock": 27,
     "thumbnail": "lechuga.jpg"
   },
   {
@@ -13,8 +13,8 @@
     "name": "Tomate",
     "price": 2,
     "description": "tomates frescos",
-    "code": 9,
-    "stock": 4,
+    "code": 19,
+    "stock": 3,
     "thumbnail": "tomate.jpg"
   }
 ]
